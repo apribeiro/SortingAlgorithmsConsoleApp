@@ -25,3 +25,5 @@ dotnet restore
 ```bash
 dotnet run
 ```
+
+![Made with love in Portugal](https://madewithlove.now.sh/pt?heart=true)
